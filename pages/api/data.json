@@ -1,0 +1,37 @@
+{
+  "contents": [
+    {
+      "id": "qift1d27ll",
+      "createdAt": "2022-07-01T02:36:30.531Z",
+      "updatedAt": "2022-07-04T06:01:20.234Z",
+      "publishedAt": "2022-07-01T02:36:30.531Z",
+      "revisedAt": "2022-07-04T06:01:20.234Z",
+      "title": "カップラーメン",
+      "content": "カップラーメンの作り方",
+      "material": [
+        {
+          "fieldId": "recipeMaterial",
+          "material": "カップラーメン"
+        },
+        {
+          "fieldId": "recipeMaterial",
+          "material": "水"
+        }
+      ],
+      "procedure": [
+        {
+          "fieldId": "recipeProcedure",
+          "procedure": "カップラーメンを用意し沸騰した水を入れて3分待つ"
+        }
+      ],
+      "img": {
+        "url": "https://images.microcms-assets.io/assets/3d6e76396cf04488a2021c3921d4f748/7d41c75de8ff485f941c2e7d9a177167/thum.jpg",
+        "height": 1000,
+        "width": 770
+      }
+    }
+  ],
+  "totalCount": 1,
+  "offset": 0,
+  "limit": 10
+}

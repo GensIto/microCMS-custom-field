@@ -1,0 +1,10 @@
+参考
+  https://blog.masizime.com/microcms-nextjs-deploy-ftp
+  https://qiita.com/HeRo/items/935d5e268208d411ab5a
+microCMS
+  mail: genta1121@icloud.com
+  pw: m7GY2HYu&CzT
+  service name: gens
+  service id: 4044o4y1s3.microcms.io
+  url: https://4044o4y1s3.microcms.io
+  endpoint: https://4044o4y1s3.microcms.io/api/v1/2a8m9x2rihwt
